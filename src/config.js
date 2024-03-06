@@ -1,3 +1,3 @@
-const BACKEND_URL = 'http://127.0.0.1:5000/';
+const BACKEND_URL = 'https://doctorassistant.pythonanywhere.com/';
 
 export default BACKEND_URL;
